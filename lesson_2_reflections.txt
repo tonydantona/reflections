@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git sets up hidden files and folders to help it track versions.  perhaps it's using a file database to track commits.

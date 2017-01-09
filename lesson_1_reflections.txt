@@ -1,0 +1,2 @@
+How using FC (file compare) helped find the bug:
+	It focused on the lines that changed.
